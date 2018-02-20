@@ -2,6 +2,8 @@ package Lecture_7;
 import java.util.Scanner;
 import java.util.ArrayList;
 
+//Factorization
+
 public class Assignment_1 {
 	public static void main (String[] agrs){
 		System.out.println("input a number, from 2 to 100000(included)");
